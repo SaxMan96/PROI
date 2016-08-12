@@ -1,3 +1,3 @@
 # PROI
 Programowanie Obiektowe C++
-Projekt 1
+Projekt 1 no decription
