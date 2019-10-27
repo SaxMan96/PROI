@@ -1,0 +1,7 @@
+#define 1 2
+#define w e
+#define w c
+#define . !
+#define czesc hejka
+#define x y 
+1 1 2 1 w 2 e . czesc. czesc . . .. . xx x 
